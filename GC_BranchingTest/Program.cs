@@ -8,6 +8,7 @@ namespace GC_BranchingTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is initial branch");
+            Console.WriteLine("RRACZAK COMMIT");
         }
     }
 }
