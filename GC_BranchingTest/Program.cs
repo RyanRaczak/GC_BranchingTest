@@ -9,7 +9,11 @@ namespace GC_BranchingTest
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is initial branch");
 
+
             Console.WriteLine("This is what I'm contributing. I'm helpful");
+
+            Console.WriteLine("RRACZAK COMMIT");
+
         }
     }
 }
